@@ -1,3 +1,2 @@
-/node-modules
+node-modules/
 .DS.Store
-schema.sql/
